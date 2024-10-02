@@ -1,4 +1,4 @@
 # meracollege-demo
 This is my first git repository
 <br>
-Author - Aniket Saxena
+Author - Aniket Saxena (Student)
